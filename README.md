@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Roi Dor 👋 
 
-<!--
-**Roi-Dor/Roi-Dor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Honors Software Engineering Student | Backend & Cloud Security Enthusiast
+I am a **B.Sc. Software Engineering student (Afeka College)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Core Expertise
+* **Languages:** Python, Java, C/C#/C++, React/Node, Bash, SQL.
+* **Infrastructure & Security:** Docker, AWS (Boto3), PostgreSQL (pgvector), CI/CD, RESTful APIs.
+* **Specialized Interests:** Generative AI (RAG), Cloud Security Posture Management (CSPM), and System Architecture.
+
+---
+
+### 📈 GitHub Stats
+![Roi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoiDor&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoiDor&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [Roi Dor](https://www.linkedin.com/in/RoiDor) 
+* **Email:** 18rdor@gmail.com
+* **Languages:** Native English & Hebrew 
