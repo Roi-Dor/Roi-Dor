@@ -13,6 +13,6 @@ I am a **B.Sc. Software Engineering student (Afeka College)**.
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Roi Dor](https://www.linkedin.com/in/RoiDor) 
+* **LinkedIn:** [Roi Dor](https://www.linkedin.com/in/roi-dor66/) 
 * **Email:** 18rdor@gmail.com
 * **Languages:** Native English & Hebrew 
