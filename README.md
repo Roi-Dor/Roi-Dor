@@ -12,12 +12,6 @@ I am a **B.Sc. Software Engineering student (Afeka College)**.
 
 ---
 
-### 📈 GitHub Stats
-![Roi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoiDor&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoiDor&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect
 * **LinkedIn:** [Roi Dor](https://www.linkedin.com/in/RoiDor) 
 * **Email:** 18rdor@gmail.com
